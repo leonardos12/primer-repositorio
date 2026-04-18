@@ -1,0 +1,84 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Atención_al_Cliente1
+{
+    internal class Program
+    {
+        static void Main(string[] args) { }
+        
+            class Cliente
+        {
+            public int Id;
+            public string Nombre;
+            public Cliente Siguiente;
+
+            public Cliente(int id, string nombre)
+            {
+                Id = id;
+                Nombre = nombre;
+                Siguiente = null;
+            }
+        }
+
+        class ListaClientes
+        {
+            private Cliente cabeza;
+            private Cliente cola;
+
+            public void Insertar(int id, string nombre)
+            {
+                Cliente nuevo = new Cliente(id, nombre);
+
+                if (cabeza == null)
+                {
+                    cabeza = nuevo;
+                    cola = nuevo;
+                }
+                else
+                {
+                    cola.Siguiente = nuevo;
+                    cola = nuevo;
+                }
+            }
+
+            public void Mostrar()
+            {
+                Cliente actual = cabeza;
+
+                while (actual != null)
+                {
+                    Console.WriteLine("ID: " + actual.Id + " Nombre: " + actual.Nombre);
+                    actual = actual.Siguiente;
+                }
+            }
+
+            public void Eliminar(int id)
+            {
+                if (cabeza == null) return;
+
+                if (cabeza.Id == id)
+                {
+                    cabeza = cabeza.Siguiente;
+                    return;
+                }
+
+                Cliente actual = cabeza;
+
+                while (actual.Siguiente != null && actual.Siguiente.Id != id)
+                {
+                    actual = actual.Siguiente;
+                }
+
+                if (actual.Siguiente != null)
+                {
+                    actual.Siguiente = actual.Siguiente.Siguiente;
+                }
+            }
+        }
+    }
+    }
+

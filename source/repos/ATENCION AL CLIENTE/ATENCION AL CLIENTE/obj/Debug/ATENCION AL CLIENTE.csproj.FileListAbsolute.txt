@@ -1,0 +1,7 @@
+C:\Users\caden\source\repos\ATENCION AL CLIENTE\ATENCION AL CLIENTE\bin\Debug\ATENCION AL CLIENTE.exe.config
+C:\Users\caden\source\repos\ATENCION AL CLIENTE\ATENCION AL CLIENTE\bin\Debug\ATENCION AL CLIENTE.exe
+C:\Users\caden\source\repos\ATENCION AL CLIENTE\ATENCION AL CLIENTE\bin\Debug\ATENCION AL CLIENTE.pdb
+C:\Users\caden\source\repos\ATENCION AL CLIENTE\ATENCION AL CLIENTE\obj\Debug\ATENCION AL CLIENTE.csproj.AssemblyReference.cache
+C:\Users\caden\source\repos\ATENCION AL CLIENTE\ATENCION AL CLIENTE\obj\Debug\ATENCION AL CLIENTE.csproj.CoreCompileInputs.cache
+C:\Users\caden\source\repos\ATENCION AL CLIENTE\ATENCION AL CLIENTE\obj\Debug\ATENCION AL CLIENTE.exe
+C:\Users\caden\source\repos\ATENCION AL CLIENTE\ATENCION AL CLIENTE\obj\Debug\ATENCION AL CLIENTE.pdb

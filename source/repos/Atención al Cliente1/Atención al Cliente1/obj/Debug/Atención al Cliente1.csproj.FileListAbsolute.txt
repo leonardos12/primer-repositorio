@@ -1,0 +1,7 @@
+C:\Users\caden\source\repos\Atención al Cliente1\Atención al Cliente1\obj\Debug\Atención al Cliente1.csproj.AssemblyReference.cache
+C:\Users\caden\source\repos\Atención al Cliente1\Atención al Cliente1\obj\Debug\Atención al Cliente1.csproj.CoreCompileInputs.cache
+C:\Users\caden\source\repos\Atención al Cliente1\Atención al Cliente1\bin\Debug\Atención al Cliente1.exe.config
+C:\Users\caden\source\repos\Atención al Cliente1\Atención al Cliente1\bin\Debug\Atención al Cliente1.exe
+C:\Users\caden\source\repos\Atención al Cliente1\Atención al Cliente1\bin\Debug\Atención al Cliente1.pdb
+C:\Users\caden\source\repos\Atención al Cliente1\Atención al Cliente1\obj\Debug\Atención al Cliente1.exe
+C:\Users\caden\source\repos\Atención al Cliente1\Atención al Cliente1\obj\Debug\Atención al Cliente1.pdb

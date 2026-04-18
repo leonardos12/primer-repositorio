@@ -1,0 +1,7 @@
+C:\Users\caden\source\repos\BusquedaListaEnlazada\BusquedaListaEnlazada\obj\Debug\BusquedaListaEnlazada.csproj.AssemblyReference.cache
+C:\Users\caden\source\repos\BusquedaListaEnlazada\BusquedaListaEnlazada\obj\Debug\BusquedaListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\caden\source\repos\BusquedaListaEnlazada\BusquedaListaEnlazada\bin\Debug\BusquedaListaEnlazada.exe.config
+C:\Users\caden\source\repos\BusquedaListaEnlazada\BusquedaListaEnlazada\bin\Debug\BusquedaListaEnlazada.exe
+C:\Users\caden\source\repos\BusquedaListaEnlazada\BusquedaListaEnlazada\bin\Debug\BusquedaListaEnlazada.pdb
+C:\Users\caden\source\repos\BusquedaListaEnlazada\BusquedaListaEnlazada\obj\Debug\BusquedaListaEnlazada.exe
+C:\Users\caden\source\repos\BusquedaListaEnlazada\BusquedaListaEnlazada\obj\Debug\BusquedaListaEnlazada.pdb

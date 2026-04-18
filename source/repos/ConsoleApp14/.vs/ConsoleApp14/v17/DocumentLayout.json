@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caden\\source\\repos\\ConsoleApp14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB869C30-141F-4A53-8F7C-4E8CCD94CDFD}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\caden\\source\\repos\\consoleapp14\\consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB869C30-141F-4A53-8F7C-4E8CCD94CDFD}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caden\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Program.cs",
+              "ToolTip": "C:\\Users\\caden\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Program.cs",
+              "RelativeToolTip": "ConsoleApp14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T16:43:27.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
